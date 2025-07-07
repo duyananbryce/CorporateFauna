@@ -1,4 +1,4 @@
-好的，这是一个为你项目 `duckyo` 生成的 README 文件。
+<img width="1328" alt="HapiGo 2025-07-07 08-06-28" src="https://github.com/user-attachments/assets/3c381d29-20b3-492b-95e1-6f5455a0fc82" />好的，这是一个为你项目 `duckyo` 生成的 README 文件。
 
 我根据你提供的信息，整理了项目的介绍、技术栈、致谢等部分，并采用了标准的 Markdown 格式。你可以直接将以下内容复制到你 GitHub 项目根目录下的 `README.md` 文件中。
 
@@ -12,11 +12,11 @@
 
 这个项目源于个人兴趣，旨在提供一种轻松娱乐的互动体验。项目仍在不断完善中，欢迎提出宝贵建议。
 
-🔗 **在线体验地址：** [**duckyo.duyn.cc**](https://www.google.com/search?q=https://duckyo.duyn.cc/)
+🔗 **在线体验地址：** [**duckyo.duyn.cc**](https://duckyo.duyn.cc/)
 
 ## 📸 项目截图
 
-\<img src="[https://i.imgur.com/example.png](https://www.google.com/search?q=https://i.imgur.com/example.png)" width="600" alt="项目截图"\>
+
 
 ## ✨ 主要特性
 
