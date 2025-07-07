@@ -1,8 +1,4 @@
-<img width="1328" alt="HapiGo 2025-07-07 08-06-28" src="https://github.com/user-attachments/assets/3c381d29-20b3-492b-95e1-6f5455a0fc82" />好的，这是一个为你项目 `duckyo` 生成的 README 文件。
 
-我根据你提供的信息，整理了项目的介绍、技术栈、致谢等部分，并采用了标准的 Markdown 格式。你可以直接将以下内容复制到你 GitHub 项目根目录下的 `README.md` 文件中。
-
------
 
 # 测测你的职场 MBTI：你是哪种职场动物？
 
@@ -16,7 +12,7 @@
 
 ## 📸 项目截图
 
-
+<img width="1328" alt="HapiGo 2025-07-07 08-06-28" src="https://github.com/user-attachments/assets/3c381d29-20b3-492b-95e1-6f5455a0fc82" />
 
 ## ✨ 主要特性
 
